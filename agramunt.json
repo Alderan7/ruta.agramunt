@@ -29,3 +29,68 @@
         "route_direction": 1
     }
 }
+
+
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2322299480438232,
+          41.600101470947266
+        ]
+      },
+      "properties": {
+        "identificador": "150066",
+        "orden": 1,
+        "nombre": "parada de prueba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1925400495529177,
+          41.605499267578125
+        ]
+      },
+      "properties": {
+        "identificador": 150067,
+        "orden": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.14260995388031,
+          41.61040115356445
+        ]
+      },
+      "properties": {
+        "identificador": 27077,
+        "orden": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1415799856185913,
+          41.64590072631836
+        ]
+      },
+      "properties": {
+        "identificador": 158819,
+        "orden": 4
+      }
+    }
+  ]
+}
